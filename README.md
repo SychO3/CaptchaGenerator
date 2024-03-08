@@ -75,7 +75,7 @@ def main():
     NameExport = "CaptchaGenerat"  
     ValuesCaptcha = "012356789QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm!@#$%&*"  
     PathExport = r"C:\Path" 
-    Fonts = ["fonts/BrunoAce-Regular.ttf" , "fonts/AmaticSC-Bold.ttf"]['AmaticSC-Bold.ttf', 'AmaticSC-Regular.ttf', 'ArchitectsDaughter-Regular.ttf']
+    Fonts = ["fonts/BrunoAce-Regular.ttf" , "fonts/AmaticSC-Bold.ttf"]
     Colors = ["red" , "blue"] 
     Backgrounds = ["C:/Path/Background1.png", "C:/Path/Background2.png", "C:/Path/Background3.png"]
     choiceFromValues = Captcha.CaptchaGenerat(NumberGen=NumberGen, ValuesCaptcha=ValuesCaptcha, NameExport=NameExport, PathExport=PathExport, Fonts=Fonts, Colors=Colors, Backgrounds=Backgrounds)
