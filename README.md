@@ -122,3 +122,5 @@ https://github.com/Sepehr0Day/CaptchaGenerator/assets/61628516/ebd9aa1c-4d6b-48f
 # By <a href="https://t.me/sepehr0day">Sepehr0Day</a>
 
 ## update in coming...
+*Star this repository if you found it useful ⭐*
+  
